@@ -1,6 +1,6 @@
 # Flight Delay Prediction using Dataproc and Composer
 
-This project utilizes Google Cloud Composer, Google Dataproc, and PySpark to ingest, process, and analyze airline delay data, ultimately building a machine learning model for predicting airline delays. 
+This project utilizes Google Cloud Composer 1.20.12, Google Dataproc, and PySpark to ingest, process, and analyze airline delay data, ultimately building a machine learning model for predicting airline delays. 
 
 ## Table of Contents
 - [Architecture](#architecture)
