@@ -38,8 +38,8 @@ This PySpark script carries out further transformation and modeling tasks. The s
 
 ## Setup and Run
 1. Set up a Google Cloud Composer environment.
-2. Upload `DAG-automateML_Notification.py` to the DAGs folder in the Cloud Storage bucket associated with your Cloud Composer environment.
-3. Place `G-Student.py` and `refinedzone_H-Student.py` in an accessible Google Cloud Storage bucket for the PySpark jobs.
+2. Place `G-Student.py` and `refinedzone_H-Student.py` in an accessible Google Cloud Storage bucket for the PySpark jobs.
+3. Upload `DAG-automateML_Notification.py` to the DAGs folder in the Cloud Storage bucket associated with your Cloud Composer environment.
 4. In the Cloud Composer web interface, activate the DAG.
 5. The pipeline will begin to run according to the schedule specified in the DAG.
 
